@@ -1,0 +1,2 @@
+# Data visualisation report repo
+This repository contains the code and datasets for the second report in the course [Data Analysis and Visualization in Practice I](https://ku-portal.kyushu-u.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=22641586&value(crclumcd)=)
